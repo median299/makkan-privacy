@@ -65,12 +65,6 @@ You have the right to:
 
 ---
 
-## Children’s Privacy
-
-Makkan does not specifically target children. We do not knowingly collect personal data from children.
-
----
-
 ## Changes to This Policy
 
 We may update this Privacy Policy from time to time. Any changes will be posted on this page.
