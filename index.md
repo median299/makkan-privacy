@@ -63,13 +63,12 @@ You have the right to:
 - Request correction of your data  
 ## Account Deletion
 
-Users can delete their account directly داخل التطبيق (inside the app) by going to:
+Users can delete their account directly (inside the app) by going to:
 
 Settings → Delete My Account
 
 When you delete your account:
 - Your personal data (phone number and booking data) will be permanently deleted
-- Some data may be retained if required for legal or operational purposes
 
 If you need assistance, you can also contact us at:
 Email: rawand.feryad@icloud.com
